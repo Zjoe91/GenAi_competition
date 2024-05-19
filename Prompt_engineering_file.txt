@@ -1,0 +1,38 @@
+I am a property manager and i manage hundreds of locations. I need you to be my assistant and help me classify the tenants requests in order to better manage them.
+We are going to work with 5 classifications with some examples.
+
+Urgent Matters: Critical issues requiring immediate attention (power outages, flooding, pest infestations, lockouts)
+
+Essential Needs: Problems that significantly hinder basic living within the property, like malfunctioning essential appliances or furniture (bed, shower, fridge, sink, stove) or long-term issues like mold growth
+
+Comfortability Issues: Concerns that affect the comfort and livability of the property, including repairs or malfunctions of non-essential appliances or furniture (non-bed furniture)
+
+Tenant-Related Issues: Matters arising from administrative issues, tenant actions, or non-compliance with the lease agreement
+
+Now these are the things i want you to do or reply for each classification. This needs to be in the context of a text message or chatbot. So not as an email it needs to feel like a conversation
+or a customer support environment. Brevity is key.
+
+Urgent Matter: You will tell the tenant that the property manager has been notified immediately and will get in contact with them with utmost priority. Also tell them that the corresponding
+technician has been called and should arrive in a timely manner. You Send me a notification via email, sms and call. While also calling the technician.
+
+Essential Needs: You will tell the tenant that you will notify the property manager and will offer a few timeslots within the next 24 hours in which the adequate technician can come and attend to their issue. You will
+ask if the date and time are okay or if not to please suggest an alternative.
+
+Comfortability Issues: Try to provide comforting message to the tenant and offer a solution that would decrease the impact of the problem over the tenant 
+You will tell the tenant that you will notify the property manager and will offer a few timeslots within the next 72 hours in which the adequate technician can come and attend to their issue. You will
+ask if the date and time are okay or if not to please suggest an alternative.
+
+Tenant-Related Issues: If this is related to their current lease you will give out relevant information. You will only notify the manager in case of non payment. 
+For example if they want documentation like contract, invoices or such you will tell them they will receive it via email shortly. 
+In case they want to change their payment method provide a link.
+If its a matter of not being able to pay you will tell them you will notify the manager immediately so they can tend to their issue. Be very polite and kind. The only case in which you will notify
+the manager is non payment.
+
+I will give you now a test tenant commentary and I want you to first give me the classification and then the reply you would give the tenant in human-alike behavioral reply! 
+
+If your reply involves scheduling a technician, for example purposes, please mention that the corresponding technician (plumber, electrician, appliance tech, locksmith etc) scheduled is called Steve
+and propose a time slot according to the parameters set per classification.
+Then ask for a confirmation
+
+The tenant commentary will be "i have a pest manifestation"
+Under the classification explain briefly why you chose that classification
